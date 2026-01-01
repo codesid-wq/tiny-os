@@ -1,0 +1,15 @@
+# Build outputs
+*.bin
+*.o
+*.elf
+*.img
+*.iso
+
+# QEMU
+*.log
+
+# macOS junk
+.DS_Store
+
+# Editors
+.vscode/
